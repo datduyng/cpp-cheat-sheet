@@ -545,8 +545,7 @@ p.pop();
 ![DepthFirstSearch](Searching/Animations/Depth-First%20Search.gif "Depth-First Search")
 
 
-Ex: 02<br>
-![DepthFirstSearch01](Searching/Animations/depth-first-search.gif)
+
 
 -------------------------------------------------------
 ### 2.5 Breadth-First Search
@@ -567,6 +566,10 @@ Ex: 02<br>
 **Visualization:**
 
 ![DepthFirstSearch](Searching/Animations/Breadth-First%20Search.gif "Breadth-First Search")
+
+Ex: 02<br>
+![BreathfirstSearch01](Searching/Animations/breadth-first-search.gif)
+
 -------------------------------------------------------
 ## 3.0 NP Complete Problems
 ### 3.1 NP Complete
