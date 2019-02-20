@@ -543,6 +543,11 @@ p.pop();
 **Visualization:**
 
 ![DepthFirstSearch](Searching/Animations/Depth-First%20Search.gif "Depth-First Search")
+
+
+Ex: 02<br>
+![DepthFirstSearch01](Searching/Animations/depth-first-search.gif)
+
 -------------------------------------------------------
 ### 2.5 Breadth-First Search
 **Idea:**
