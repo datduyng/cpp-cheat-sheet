@@ -33,6 +33,10 @@
 		- [4.3 Bubble Sort](#43-bubble-sort)
 		- [4.4 Merge Sort](#44-merge-sort)
 		- [4.5 Quicksort](#45-quicksort)
+	- [5.0 Graph Agorithm](#50-graphs)
+		- [5.1 dijkstra](#51-dijkstra)
+		- [5.2 prim](#52-prim)
+		
 
 <!-- /TOC -->
 
@@ -726,3 +730,21 @@ Ex: 02<br>
 #### Visualization
 
 ![QuickSort](Sorting/Animations/Quicksort.gif)
+
+## 5.0 Graphs
+### 5.1 dijkstra
+#### Idea
+
+#### detail implementations
+#### Complexity
+#### Visualization
+![diskstra](Searching/Animations/dijkstra01.gif)
+
+### 5.2 prim
+#### Idea
+
+#### detail implementations
+#### Complexity
+#### Visualization
+
+
